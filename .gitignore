@@ -4,7 +4,10 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 
 # IDE Fiels
 .idea
 *.iml
+=======
+>>>>>>> 91d42b6c45ba7d87b2c5704fff8f69ad7af8ca8f
